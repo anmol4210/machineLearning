@@ -1,3 +1,0 @@
-! wget https://raw.githubusercontent.com/hse-aml/natural-language-processing/master/setup_google_colab.py -O setup_google_colab.py
-import setup_google_colab
-
